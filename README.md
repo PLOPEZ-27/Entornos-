@@ -1,5 +1,5 @@
 # Entornos-
 aqui gardaremos lo que haremos en la clase
--PASOS PARA INSTALAR
+# PASOS PARA INSTALAR
 -CREAR URL DEL REPOSITORIO
 -ABRIR LA TERMINAR EN LA COMPUTADORA
